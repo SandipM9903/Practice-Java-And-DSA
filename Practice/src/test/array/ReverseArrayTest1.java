@@ -1,7 +1,7 @@
-package test;
+package test.array;
 
 import org.junit.jupiter.api.Test;
-import programs.ReverseArray1;
+import programs.array.ReverseArray1;
 
 import static org.junit.jupiter.api.Assertions.*;
 

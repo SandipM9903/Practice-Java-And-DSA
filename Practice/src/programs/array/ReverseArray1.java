@@ -1,4 +1,4 @@
-package programs;
+package programs.array;
 /*
 Reverse Array
 Given an integer array ( a ) of length ( n ), you want to create an array ( res ) of length ( 2n ) where ( res[i] = a[i] ) and ( res[i + n] = a[n - i - 1] ) for ( 0 <=i < n ) (0-indexed).
